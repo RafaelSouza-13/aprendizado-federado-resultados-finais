@@ -21,3 +21,5 @@ Este projeto contém os resultados de treinamento de modelos FedAvg no dataset M
 3. Instale as dependências
     ```bash
     pip install -r requirements.txt
+
+4. Execute o MAIN.ipynb
