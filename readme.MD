@@ -14,13 +14,10 @@ Este projeto contém os resultados de treinamento de modelos FedAvg no dataset M
     git git@github.com:RafaelSouza-13/aprendizado-federado-resultados-finais.git
     cd <NOME_DO_REPOSITORIO>
 
-2. Crie e ative um ambiente virtual
-
-python -m venv .venv
-### Linux / macOS
-source .venv/bin/activate
-### Windows
-.venv\Scripts\activate
+2. Crie e ative um ambiente virtual a depender do seu sistema operacional
+    ```bash
+    python -m venv .venv
 
 3. Instale as dependências
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
